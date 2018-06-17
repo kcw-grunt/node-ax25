@@ -8,13 +8,15 @@
 	},
 	"contributors" : [
 		{	"name" : "Derek Mullin (VE3XEC)",
-			"email" : "derekmullin@gmail.com"
+			"email" : "derekmullin@gmail.com",
+			"name" : "Kerry Washington (KM6TIG)",
+			"email" : "kerry.washington@gmail.com"
 		}
 	],
 	"main" : "./index.js",
 	"repository" : {
 		"type" : "git",
-		"url" : "https://github.com/echicken/node-ax25.git"
+		"url" : "https://github.com/kcw-grunt/node-ax25.git"
 	},
 	"dependencies" : {
 		"serialport" : "= 2.1.2"
